@@ -1,4 +1,4 @@
-# Final
+# Welcome to Black Mountain!
 
 **Black Mountain Overlook**
 
