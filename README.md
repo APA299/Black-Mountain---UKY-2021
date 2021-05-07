@@ -14,4 +14,4 @@
 **Potree of Black Mountain**
 
 ![Potree Screenshot](graphics/potreeBMScreen.JPG)
-[Link to Potree](https://apa299.github.io/rrg/potreeBM/)
+[Link to Potree](https://apa299.github.io/blkmn/potreeBM/)
