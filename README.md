@@ -17,7 +17,7 @@ This is an overlook view of the radio tower that is located near the summit of B
 
 ## Video of Black Mountain
 
-A short chip of "flying" around Black Mountain that can be seen with the link below.
+A short clip of "flying" around Black Mountain that can be seen with the link below.
 
 ![Black Mountain Overlook Screenshot](graphics/bmoScreen.JPG)
 [Link to Video](https://youtu.be/J0KL63oRgEU)
