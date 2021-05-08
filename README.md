@@ -8,9 +8,12 @@ Black Mountain is the highest peak located in Kentucky and is located near the V
 ## Black Mountain Overlook
 
 This is an overlook view of the radio tower that is located near the summit of Black Mountain. There is also a summit plaque that details information about the summit and also gives credit towards a WWII Veteran that helped createone of the first cable systems in the United States.
+
 ![Black Mountain Overlook](graphics/bmoMap.png)
 
 ## Video of Black Mountain
+
+A short chip of "flying" around Black Mountain that can be seen with the link below.
 
 ![Black Mountain Overlook Screenshot](graphics/bmoScreen.JPG)
 [Link to Video](https://youtu.be/J0KL63oRgEU)
@@ -18,5 +21,13 @@ This is an overlook view of the radio tower that is located near the summit of B
 
 ## Potree of Black Mountain
 
+This 3D interactive map gives you the ability to fly around Black Mountain and see the aireal mapping that can be done.
+
 ![Potree Screenshot](graphics/potreeBMScreen.JPG)
 [Link to Potree](https://apa299.github.io/blkmn/potreeBM/)
+
+## Additional Photos
+
+[Plaque commemorating WWII Veteran that created one of the first cable systems in the United States and also gives information about the summit as well](graphics/plaque.jpg)
+
+[Sceanic View of Black Mountain in the evening that captures the beauty that can be noticed from above.](graphics/intro.jpg)
