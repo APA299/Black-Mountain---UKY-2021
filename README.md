@@ -28,7 +28,7 @@ A short clip of "flying" around Black Mountain that can be seen with the link be
 This 3D interactive map gives you the ability to fly around Black Mountain and see the aerial mapping that can be done.
 
 ![Potree Screenshot](graphics/potreeBMScreen.JPG)
-[Link to Potree](https://apa299.github.io/blkmn/potreeBM/)
+[Link to Potree](https://apa299.github.io/BlackMountainUKY2021/potreeBM/)
 
 ## Additional Photos
 
