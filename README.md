@@ -28,6 +28,9 @@ This 3D interactive map gives you the ability to fly around Black Mountain and s
 
 ## Additional Photos
 
-[Plaque commemorating WWII Veteran that created one of the first cable systems in the United States and also gives information about the summit as well](graphics/plaque.jpg)
+Plaque commemorating WWII Veteran that created one of the first cable systems in the United States and also gives information about the summit as well]
+(graphics/plaque.jpg)
 
-[Scenic View of Black Mountain in the evening that captures the beauty that can be noticed from above.](graphics/intro.jpg)
+Scenic View of Black Mountain in the evening that captures the beauty that can be noticed from above.
+(graphics/intro.jpg)
+
