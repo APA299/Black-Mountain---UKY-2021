@@ -7,8 +7,8 @@ Black Mountain is the highest peak located in Kentucky and is located near the V
 
 ## Black Mountain Overlook
 
-![Black Mountain Overlook](graphics/bmoMap.png)
 This is an overlook view of the radio tower that is located near the summit of Black Mountain. There is also a summit plaque that details information about the summit and also gives credit towards a WWII Veteran that helped createone of the first cable systems in the United States.
+![Black Mountain Overlook](graphics/bmoMap.png)
 
 ## Video of Black Mountain
 
